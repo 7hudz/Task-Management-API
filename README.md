@@ -31,6 +31,8 @@ Copy the .env.example file and configure:
 bash
 
 cp .env.example .env
+
+
 Generate the application key:
 
 bash
