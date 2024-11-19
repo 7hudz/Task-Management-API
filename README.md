@@ -26,6 +26,7 @@ Install dependencies:
 bash
 
 composer install
+
 Copy the .env.example file and configure:
 
 bash
