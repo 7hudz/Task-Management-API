@@ -1,18 +1,32 @@
 Laravel Task Management API
+
 Description
+
 A RESTful API built with Laravel to manage tasks with features like:
 
+
 Task CRUD operations.
+
 User assignment to tasks.
+
 Notifications for tasks due within 24 hours.
+
 Task filtering and overdue handling.
+
 Features
+
 Task Management: Create, update, delete, and retrieve tasks.
+
 User Assignment: Assign tasks to users via email.
+
 Notifications: Notify users of tasks due in 24 hours using Laravel notifications.
+
 Bonus Features:
+
 Task filtering by status or due date.
+
 Overdue task detection and marking.
+
 
 
 
