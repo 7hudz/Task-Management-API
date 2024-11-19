@@ -53,8 +53,8 @@ php artisan serve
 
 
 API Documentation
-Import the Postman collection located in docs/TaskManagementAPI.postman_collection.json.
-Base URL: http://localhost:8000/api.
+Import the Postman collection located in https://www.postman.com/mousa1998/task-management-api/collection/3m48au0/task-management-api?action=share&creator=36250666.
+
 
 
 To test notifications:
