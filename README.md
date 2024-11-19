@@ -17,14 +17,14 @@ Overdue task detection and marking.
 
 
 bash
-Copy code
+
 git clone https://github.com/7hudz/Task-Management-API.git
 
 
 Install dependencies:
 
 bash
-Copy code
+
 composer install
 Copy the .env.example file and configure:
 
@@ -88,8 +88,7 @@ protected function schedule(Schedule $schedule)
 }
 After testing, revert it to:
 
-php
-Copy code
+
 $schedule->call(...)->daily();
 First Steps for Others to Use Your Project
 
